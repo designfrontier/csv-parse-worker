@@ -1,0 +1,16 @@
+{
+  "name": "csv-node-exec",
+  "version": "1.0.0",
+  "description": "commandline node app for parsing csv files into arrays of arrays",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parse": "^1.0.1",
+    "stream-transform": "^0.1.1"
+  }
+}
